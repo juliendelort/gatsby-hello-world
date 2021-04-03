@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[682],{518:function(e,t,l){"use strict";l.r(t),l.d(t,{default:function(){return n}});var r=l(294);function n(){return r.createElement("div",{style:{color:"teal"}},r.createElement("h1",null,"About Gatsby"),r.createElement("p",null,"Such wow. Very React."))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-9e179f9911c0b10645a1.js.map
