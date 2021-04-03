@@ -1,3 +1,7 @@
+### Useful links
+- https://www.gatsbyjs.com/docs/how-to/sourcing-data/sourcing-from-private-apis/
+- https://www.gatsbyjs.com/docs/data-fetching/
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
